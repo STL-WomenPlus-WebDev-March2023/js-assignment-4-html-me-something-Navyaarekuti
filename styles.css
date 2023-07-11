@@ -5,7 +5,7 @@
 }
 
 #mainHeading {
-    color: red;
+    color: "red";
   }
 
   .spacing {
@@ -13,7 +13,7 @@
  }
 
  .funParagraph {
-    color: green;
+    color: "green";
   }
 
   #testP {
@@ -33,7 +33,7 @@
     margin-left: 10px;
   }
 
-  div {
+  nav {
     padding-top: 5px;
     padding-right: 3px;
     padding-bottom: 5px;
