@@ -1,1 +1,44 @@
-/* Write your CSS here! */
+#beaches,
+#resorts,
+#snorkeling {
+  background-color: yellow;
+}
+
+#mainHeading {
+    color: red;
+  }
+
+  .spacing {
+    padding: 2px;
+ }
+
+ .funParagraph {
+    color: green;
+  }
+
+  #testP {
+
+    color: green;
+  }
+
+  body {
+    margin: 8px;
+    display: block;
+  }
+
+  p {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-right: 5px;
+    margin-left: 10px;
+  }
+
+  nav {
+    padding-top: 5px;
+    padding-right: 3px;
+    padding-bottom: 5px;
+    padding-left: 3px;
+  }
+  
+
+  
